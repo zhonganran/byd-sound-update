@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "sounds": [
+    {"id": "frog", "name": "青蛙叫", "emoji": "🐸", "category": "动物", "url": "/sounds/frog.wav"},
+    {"id": "reverse", "name": "倒车请注意", "emoji": "🔙", "category": "倒车", "url": "/sounds/倒车请注意.wav"},
+    {"id": "start", "name": "拖拉机启动", "emoji": "🚜", "category": "启动", "url": "/sounds/拖拉机启动.wav"},
+    {"id": "game", "name": "卢本伟准备就绪", "emoji": "📺", "category": "游戏", "url": "/sounds/卢本伟准备就绪.wav"},
+    {"id": "funny", "name": "雷军碉堡了", "emoji": "😂", "category": "搞笑", "url": "/sounds/雷军碉堡了.wav"},
+    {"id": "lock", "name": "雷军上锁", "emoji": "🔒", "category": "锁车", "url": "/sounds/雷军上锁.wav"}
+  ]
+}
